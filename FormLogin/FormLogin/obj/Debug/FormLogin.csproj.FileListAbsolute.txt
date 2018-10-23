@@ -1,0 +1,13 @@
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.FrmLogin.resources
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.Properties.Resources.resources
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.GenerateResource.Cache
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.CoreCompileInputs.cache
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+Z:\PPII\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+Z:\PPII\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+Z:\PPII\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.csprojResolveAssemblyReference.cache
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.frmTeste.resources
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.PanelGigante.resources
+Z:\PPII\FormLogin\FormLogin\obj\Debug\FormLogin.primeiraFase.resources
